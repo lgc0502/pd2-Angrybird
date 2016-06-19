@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/hhh">
+        <file>Haunted House-2.jpg</file>
+        <file>blood.wav</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/music">
+        <file>laugh.wav</file>
+        <file>scream.wav</file>
+        <file>+Horror+Scare+Thriller+MOVIE+MUSIC+BY+DJ.HOT.mp3</file>
+    </qresource>
+</RCC>

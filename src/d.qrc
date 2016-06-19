@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/all">
+        <file>shooter.png</file>
+        <file>black.png</file>
+        <file>blue.png</file>
+        <file>egg.png</file>
+        <file>green.png</file>
+        <file>Normal_Bird_1.png</file>
+        <file>pig.png</file>
+        <file>pig2.png</file>
+        <file>pigi.png</file>
+        <file>thinwood.png</file>
+        <file>thinwood1.png</file>
+        <file>white.png</file>
+        <file>yellow.png</file>
+    </qresource>
+</RCC>

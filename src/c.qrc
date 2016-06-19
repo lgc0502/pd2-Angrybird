@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/thing">
+        <file>pigi.png</file>
+        <file>woodi.png</file>
+        <file>woodii.png</file>
+    </qresource>
+</RCC>
